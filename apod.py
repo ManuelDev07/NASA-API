@@ -1,5 +1,5 @@
-#Otbteniendo la imagen astrónomica del día (Astronomic Picture Of the Day) mediante APIs Públicas de la NASA: https://api.nasa.gov/index.html#getting-started
-#APOD -> APOD es un servicio que nos provee una imagen astronómica diaria, ademas de la imagen, nos proporciona una breve descripción de esta.
+#Otbteniendo la imagen o vídeo astrónomico del día (Astronomic Picture Of the Day) mediante APIs Públicas de la NASA: https://api.nasa.gov/index.html#getting-started
+#APOD -> APOD es un servicio que nos provee un vídeo o imágen astronómico, ademas del archivo, también nos proporciona una breve descripción de este.
 
 import requests
 import webbrowser #Webbrowser sirve para que algún link/url/ruta al ser recibida pueda abrirse y ser redirigida al navegador de mi sistema.
